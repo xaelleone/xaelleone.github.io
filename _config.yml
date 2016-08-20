@@ -16,7 +16,7 @@
 title: kevin li
 email: kmli@mit.edu
 description: > # this means to ignore newlines until "baseurl:"
-Second year computer science student at MIT from San Diego, CA
+  Second year computer science student at MIT from San Diego, CA
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://example.com" # the base hostname & protocol for your site
 twitter_username: xaelleone
