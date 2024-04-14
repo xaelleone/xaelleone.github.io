@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
 title: Kevin Matthew Li
 description: Kevin Matthew Li's website
+plugins: 
+	- jekyll-include-cache
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
