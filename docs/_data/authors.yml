@@ -1,0 +1,14 @@
+Kevin Matthew Li:
+  name        : "Kevin Matthew Li"
+  bio         : "What do you want, jewels? I am a very extravagant man."
+  avatar      : "/assets/images/kmli_headshot_delmar.jpg"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/kevinmatthewli"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/xaelleone"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/xkmli/"

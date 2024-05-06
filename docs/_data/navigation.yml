@@ -1,0 +1,13 @@
+main:
+  - title: "About me"
+    url: /about/
+    description: "Information about myself"
+  - title: "Work"
+    url: /work/
+    description: "My résumé"
+  - title: "Projects"
+    url: /projects/
+    description: "My projects"
+  - title: "Posts"
+    url: /posts/
+    description: "My blog posts"
