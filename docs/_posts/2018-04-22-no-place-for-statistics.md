@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "No place for statistics"
+author: "Kevin Matthew Li"
 date:   2018-04-22
 categories: archive
 ---
